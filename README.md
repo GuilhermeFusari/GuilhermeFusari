@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fusari133/)
 
 <div style="display: inline-block"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFusari&include_all_commits=true&theme=dracula" alt="Fusari GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFusari&include_all_commits=true&theme=dracula" alt="Fusari GitHub stats" height = "200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFusari&layout=donut" alt="Top Langs" width="400" height="200" />
 </div>
 
