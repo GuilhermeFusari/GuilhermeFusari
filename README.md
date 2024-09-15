@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Guilherme Fusari. Since you're here, I hope you like my profile 👋
+[![StackOverflow(https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21293988/guilherme-dias-fusari)
+[![Linkedln(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fusari133/)
 
-<!--
-**GuilhermeFusari/GuilhermeFusari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style = "display: inline-block"><br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeFusari&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFusari&layout=compact)
+</div>
+## Technologies
+<div style = "display: inline-block"><br/>
+  <img align= "center" alt = "Python "src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align= "center" alt = "C# "src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align= "center" alt = "TypeScript "src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align= "center" alt = "Angular "src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img align= "center" alt = "MySQL "src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>
+I am currently focused on studying machine learning, with a particular emphasis on its application in cybersecurity, as I find the intersection of these fields both fascinating and highly impactful.
