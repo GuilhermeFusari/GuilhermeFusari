@@ -21,4 +21,3 @@
   <img align= "center" alt = "Flask "src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img align= "center" alt = "MongoDB "src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
-I am currently focused on studying machine learning.
